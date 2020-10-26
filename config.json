@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://admin:admin@cluster0.phkac.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "secret": "123456"
+}
